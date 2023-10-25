@@ -1,7 +1,5 @@
 # Face Mask Detection
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg
-
 Face Mask Detection is an open-source project aimed at automatically identifying whether individuals in images or real-time video streams are wearing face masks. The project addresses the crucial need to ensure mask compliance in public and private settings, especially in the context of the ongoing COVID-19 pandemic.
 
 ## Table of Contents
