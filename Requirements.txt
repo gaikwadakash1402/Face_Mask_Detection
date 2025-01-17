@@ -6,3 +6,4 @@ opencv-python==4.8.1.78
 matplotlib==3.8.0
 argparse==1.4
 scipy==1.11.3
+streamlit = 1.41.1
